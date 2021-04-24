@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 9rem;
+    color: #e2edff;
+    padding-bottom: 20rem;
+    background-color: #9b9b9b;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url("https://www.iphonehacks.com/wp-content/uploads/2020/08/recreate-macos-big-sur.jpeg");
+  }
+  
+  #gallery {
+    background-color: #8ac2d3;
+    text-align: center;
+    border-radius: 25px;
+  }
+
+  section {   
+    background-attachment: fixed;
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+  }
